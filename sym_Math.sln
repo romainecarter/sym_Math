@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driver", "driver\driver.csproj", "{06A1EC97-87ED-4D32-97EA-5BF0DCF4D306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBuilder", "XBuilder\XBuilder.csproj", "{5BC51488-293F-486E-8F8F-69196373CCB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{E5A563DD-08B2-4696-8121-B6319A9E8E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A1EC97-87ED-4D32-97EA-5BF0DCF4D306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A1EC97-87ED-4D32-97EA-5BF0DCF4D306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A1EC97-87ED-4D32-97EA-5BF0DCF4D306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A1EC97-87ED-4D32-97EA-5BF0DCF4D306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC51488-293F-486E-8F8F-69196373CCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC51488-293F-486E-8F8F-69196373CCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC51488-293F-486E-8F8F-69196373CCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC51488-293F-486E-8F8F-69196373CCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A563DD-08B2-4696-8121-B6319A9E8E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A563DD-08B2-4696-8121-B6319A9E8E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A563DD-08B2-4696-8121-B6319A9E8E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A563DD-08B2-4696-8121-B6319A9E8E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
